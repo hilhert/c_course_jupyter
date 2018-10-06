@@ -6,4 +6,4 @@ dependencies:
   - xeus-cling=0.4.7
   - xtensor=0.17.3
   - xtensor-blas=0.13.1
-- notebook
+  - notebook
