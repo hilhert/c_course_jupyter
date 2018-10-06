@@ -9,29 +9,11 @@
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
-
+1. mybinder.org
+2. github
+3. 配置 environment.yml 以决定mybinder.org分配Docker容器的依赖关系
+4. 配置 postBuild 以启动jupyter extentisons
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1. 打开Jupyter-Notebook： [连接](https://mybinder.org/v2/gh/hilhert/c_course_jupyter/master?filepath=Class2_pub.ipynb) 
+2. 打开Jupyter-Extension(Draw-IO): Jupyter-Notebook出现地址去掉`notebooks及以后`，添加`lab`回车
