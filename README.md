@@ -11,5 +11,5 @@ B-S 新型C语言教学环境
 3. 配置 environment.yml 以决定mybinder.org分配Docker容器的依赖关系
 4. 配置 postBuild 以启动jupyter extentisons
 #### 使用说明
-1. 打开Jupyter-Notebook： [连接](https://hub.mybinder.org/user/hilhert-c_course_jupyter-n17jdciy/notebooks/Class2_pub.ipynb) 
+1. 打开Jupyter-Notebook： [连接](https://mybinder.org/v2/gh/hilhert/c_course_jupyter/master?filepath=Class2_pub.ipynb) 
 2. 打开Jupyter-Lab: Jupyter-Notebook出现地址去掉`notebooks及以后`，添加`lab`回车
