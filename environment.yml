@@ -10,4 +10,5 @@ dependencies:
   - numpy
   - matplotlib
   - ipywidgets
+  - jupyter-c-kernel
   - jupyter_contrib_nbextensions
