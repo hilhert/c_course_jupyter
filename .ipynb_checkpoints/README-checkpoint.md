@@ -18,6 +18,7 @@ B-S 新型C语言教学环境
  * [课5](https://mybinder.org/v2/gh/hilhert/c_course_jupyter/master?filepath=Class5_pubc.ipynb)
  * [课6](https://mybinder.org/v2/gh/hilhert/c_course_jupyter/master?filepath=Class6_pubc.ipynb)
  * [课7](https://mybinder.org/v2/gh/hilhert/c_course_jupyter/master?filepath=Class7_pubc.ipynb)
+ * [课8](https://mybinder.org/v2/gh/hilhert/c_course_jupyter/master?filepath=Class8_pubc.ipynb)
 2. 打开Jupyter-Lab: Jupyter-Notebook出现地址去掉`notebooks及以后`，添加`lab`回车
 3. 本人VPS上建立jupyter-hub的匿名访问:[连接2](http://45.76.192.159:8000)
 4. 当使用[连接2](http://45.76.192.159:8000)打开notebooks时，请打开新建一个终端(Terminal),然后键入`git clone https://github.com/hilhert/c_course_jupyter.git`即可获取本课程资源。
